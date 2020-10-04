@@ -1,0 +1,8 @@
+os
+sys
+scipy
+matplotlib
+PIL
+numpy
+tensorflow
+pprint
